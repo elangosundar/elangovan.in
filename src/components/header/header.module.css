@@ -1,0 +1,25 @@
+.header {
+  flex: 0 1 auto;
+  text-align: right;
+  position: relative;
+}
+.header ul li {
+  font-size: 14px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.header li a {
+  box-shadow: none;
+  font-weight: bolder;
+}
+.header li a:hover,
+.header li a:focus {
+  box-shadow: 0 1px 0 0 currentColor;
+}
+
+@media (max-width: 672px) {
+  .header {
+    text-align: center;
+  }
+}
