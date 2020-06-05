@@ -24,7 +24,7 @@ export default function Homepage() {
                 <a
                   target="_blank"
                   title="Github"
-                  href="https://github.com/elangovanshanthi"
+                  href="https://github.com/elangosundar"
                 >
                   <i className="fa fa-2x fa-github"></i>
                 </a>
@@ -72,7 +72,7 @@ export default function Homepage() {
               You may want to check my{' '}
               <a
                 target="_blank"
-                href="https://github.com/elangovanshanthi?tab=repositories"
+                href="https://github.com/elangosundar?tab=repositories"
               >
                 projects{' '}
               </a>{' '}
