@@ -11,7 +11,7 @@ export default function header() {
             <Link to={'/blog'}>Blog</Link>
           </li>
           <li>
-            <a href="https://github.com/elangovanshanthi" target="_blank">
+            <a href="https://github.com/elangosundar" target="_blank">
               Github
             </a>
           </li>

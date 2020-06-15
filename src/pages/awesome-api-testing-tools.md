@@ -17,4 +17,4 @@ A Curated collection of useful awesome API tools that you can test your API
 * [OWASP Zaproxy](https://github.com/zaproxy/zaproxy) - A tool to test your API for known security vulnerabilities, with a great CI integration
 
 ### Repo url : 
-https://github.com/elangovanshanthi/awesome-api-tools
+https://github.com/elangosundar/awesome-api-tools

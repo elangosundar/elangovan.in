@@ -8,7 +8,7 @@ import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 
-const GITHUB_USERNAME = 'elangovanshanthi'
+const GITHUB_USERNAME = 'elangosundar'
 const GITHUB_REPO_NAME = 'elangovan.in'
 const PAGE_URL = 'https://elangovan.in'
 class BlogPostTemplate extends React.Component {
