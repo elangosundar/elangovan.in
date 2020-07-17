@@ -33,7 +33,7 @@ export default function Homepage() {
                 <a
                   target="_blank"
                   title="Twitter"
-                  href="https://twitter.com/im_leaf"
+                  href="https://twitter.com/elango_sundar"
                 >
                   <i className="fa fa-2x fa-twitter"></i>
                 </a>
@@ -77,7 +77,7 @@ export default function Homepage() {
                 projects{' '}
               </a>{' '}
               or follow me on{' '}
-              <a target="_blank" href="https://twitter.com/im_leaf">
+              <a target="_blank" href="https://twitter.com/elango_sundar">
                 Twitter
               </a>
               .

@@ -29,7 +29,7 @@ class Bio extends React.Component {
         />
         <p>
           Personal blog by{' '}
-          <a href="https://twitter.com/im_leaf" target="_blank">
+          <a href="https://twitter.com/elango_sundar" target="_blank">
             Elangovan
           </a>
           .<br></br>I learn by breaking stuff (mostly code).

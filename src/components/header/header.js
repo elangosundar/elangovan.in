@@ -16,7 +16,7 @@ export default function header() {
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/im_leaf">Twitter</a>
+            <a href="https://twitter.com/elango_sundar">Twitter</a>
           </li>
         </ul>
       </nav>

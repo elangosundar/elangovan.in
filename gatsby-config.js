@@ -5,7 +5,7 @@ module.exports = {
     description: 'Personal blog by Elangovan. Love to Code',
     siteUrl: 'https://elangovan.in',
     social: {
-      twitter: '@im_leaf',
+      twitter: '@elango_sundar',
     },
   },
   pathPrefix: '/',
