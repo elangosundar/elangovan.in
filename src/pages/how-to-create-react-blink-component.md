@@ -2,6 +2,7 @@
 title: How to create React Blink Component?
 date: '2019-12-12'
 spoiler: React Blink Component
+categories: ["development", "reactjs"]
 ---
 
 This `react-blink-text` is reusable React component will manage to blink any text and changing the text color and font size if we need.

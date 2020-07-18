@@ -40,6 +40,18 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
+          Categories: {post.frontmatter.categories.map(
+            (category, index) => <span key={index}>{category.toUpperCase()}, </span>
+          )}
+        </p>
+        <p
+          style={{
+            ...scale(-1 / 5),
+            display: 'block',
+            marginBottom: rhythm(1),
+            marginTop: rhythm(-1),
+          }}
+        >
           {post.frontmatter.date}
           {` • ${formatReadingTime(post.timeToRead)}`}
         </p>
@@ -128,6 +140,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         spoiler
+        categories
       }
       fields {
         slug

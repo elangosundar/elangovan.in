@@ -2,6 +2,7 @@
 title: Proxy error - Could not proxy request /api/auth from localhost:3000 to localhost:5000
 date: '2020-06-15'
 spoiler: ReactJs Proxy Error
+categories: ["development", "api"]
 ---
 
 Proxy error: Could not proxy request /api/auth from localhost:3000 to localhost:5000 in reactjs application.

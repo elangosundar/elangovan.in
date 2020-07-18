@@ -23,6 +23,7 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    categories
                   }
                 }
               }
@@ -30,6 +31,8 @@ exports.createPages = ({ graphql, actions }) => {
           }
         `
       ).then(result => {
+
+        // Capture the Error
         if (result.errors) {
           console.log(result.errors)
           reject(result.errors)
@@ -53,9 +56,11 @@ exports.createPages = ({ graphql, actions }) => {
             },
           })
         })
+
       })
     )
   })
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

@@ -2,6 +2,7 @@
 title: Awesome API testing tools
 date: '2020-01-05'
 spoiler: API Testing tools
+categories: ["tools", "testing"]
 ---
 
 A Curated collection of useful awesome API tools that you can test your API
