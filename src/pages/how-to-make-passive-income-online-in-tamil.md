@@ -12,6 +12,8 @@ https://youtu.be/dLCH9fYvpoQ
 
 I have explained a simple and powerful way to generate or make money online from passive income online or earn money online. I have added the best strategy for passive income ideas in tamil.
 
+[![https://youtu.be/dLCH9fYvpoQ](top-5-sources-to-generate-passive-income-online-in-tamil.png)](https://youtu.be/dLCH9fYvpoQ)
+
 It is best and top sources to generate the passive income online, earn money online and passive income tips. The best passive income generate methods from online, youtube. affliate marketing and content writing.
 
 ## Best Passive Income Ideas:
